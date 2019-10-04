@@ -19,13 +19,8 @@ spring:
       pool-name: SpringBootDemoHikariCP
       max-lifetime: 60000
       connection-timeout: 30000
-  cloud:
-    config:
-      server:
-        git:
-          uri: springCloudConfig
-          username: jzanetti
-          password: yhq19950826
+
+
 eureka:
   client:
     service-url:
