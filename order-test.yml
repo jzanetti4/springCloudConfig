@@ -35,7 +35,6 @@ env:
 
 mybatis:
   configuration:
-    # 下划线转驼峰
     map-underscore-to-camel-case: true
     default-fetch-size: 100
     default-statement-timeout: 30
