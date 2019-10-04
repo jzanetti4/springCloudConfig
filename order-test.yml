@@ -30,6 +30,9 @@ logging:
     com.product: debug
     com.product.mapper: trace
 
+env:
+  dev
+
 mybatis:
   configuration:
     # 下划线转驼峰
@@ -37,5 +40,4 @@ mybatis:
     default-fetch-size: 100
     default-statement-timeout: 30
   type-aliases-package: com.order.mapper
-env:
-  test
+
