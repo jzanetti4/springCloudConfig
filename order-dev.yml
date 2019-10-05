@@ -26,6 +26,6 @@ spring:
       max-lifetime: 60000
       connection-timeout: 30000
 env:
-  dev for 1.1
+  dev 
 
 
