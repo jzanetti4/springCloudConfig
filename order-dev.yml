@@ -27,5 +27,9 @@ spring:
       connection-timeout: 30000
 env:
   dev1.1
+pojo:
+  name: yhq
+  age: 18
+  
 
 
