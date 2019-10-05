@@ -26,7 +26,7 @@ spring:
       max-lifetime: 60000
       connection-timeout: 30000
 env:
-  dev2.5
+  dev2.6
 pojo:
   name: yhq
   age: 22
