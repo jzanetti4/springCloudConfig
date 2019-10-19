@@ -29,6 +29,12 @@ logging:
   level:
     com.product: debug
     com.product.mapper: trace
+    
+rabbitmq:
+    host: localhost
+    port: 15672
+    username: guest
+    password: guest    
 
 mybatis:
   configuration:
