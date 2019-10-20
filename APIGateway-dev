@@ -15,7 +15,5 @@ spring:
       pool-name: SpringBootDemoHikariCP
       max-lifetime: 60000
       connection-timeout: 30000
-  redis:
-    host: localhost
-    port: 9000      
+     
       
