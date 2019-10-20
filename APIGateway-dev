@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: APIGateway
   datasource:
     url: jdbc:mysql://127.0.0.1:3306/SpringCloud_Sell?useUnicode=true&characterEncoding=UTF-8&useSSL=false&autoReconnect=true&failOverReadOnly=false&serverTimezone=UTC
     username: root
