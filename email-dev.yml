@@ -1,0 +1,27 @@
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8762/eureka/,http://localhost:8763/eureka/,http://localhost:8761/eureka/
+    registry-fetch-interval-seconds: 5
+
+spring:
+  application:
+    name: email
+ 
+      
+env:
+  kafka
+pojo:
+  name: yhq
+  age: 22
+rabbitmq:
+    host: localhost
+    port: 15672
+    username: guest
+    password: guest
+ 
+  
+  
+
+
