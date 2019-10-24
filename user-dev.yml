@@ -15,12 +15,12 @@ spring:
       pool-name: SpringBootDemoHikariCP
       max-lifetime: 60000
       connection-timeout: 30000
-  rabbitmq:
-    host: localhost
-    password: guest
-    port: 15672
-    username: guest    
   redis:
     host: localhost
-    port: 9000      
+    port: 9000 
+rabbitmq:
+    host: localhost
+    port: 15672
+    username: guest
+    password: guest    
       
