@@ -16,6 +16,6 @@ spring:
       max-lifetime: 60000
       connection-timeout: 30000
 server:
-  port: 100001
+  port: 10001
    
       
