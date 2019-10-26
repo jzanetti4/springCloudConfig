@@ -9,6 +9,9 @@ eureka:
 spring:
   application:
     name: email
+  redis:
+    host: localhost
+    port: 9000  
  
       
 env:
