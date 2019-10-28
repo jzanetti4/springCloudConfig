@@ -8,8 +8,6 @@ eureka:
     registry-fetch-interval-seconds: 5
 
 spring:
-  application:
-    name: comment
   data:
     mongodb:
       host: localhost
